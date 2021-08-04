@@ -2,6 +2,7 @@
 
   * An easy Login-Form written with php!
   * This code has the form and the part that takes the values with $_POST.
+  * Full responsive website
   * In order to run php I used xampp.
 
 ### Results:
